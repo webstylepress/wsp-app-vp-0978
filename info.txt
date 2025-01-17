@@ -1,0 +1,21 @@
+
+Add thumbnail image and video in assets folder.
+
+Install 
+> npm i
+
+Run the app
+> npm run dev
+
+@webstylepress
+Tutorial Link: https://youtu.be/Cc70VsAS-S8
+
+⚡Channel: https://www.youtube.com/@webstylepress
+⚡Patreon: https://www.patreon.com/webstylepress
+⚡Store 1: https://www.webstylepress.com/shop
+⚡Store 2: https://www.webstylepress.com/store
+⚡Website: https://www.webstylepress.com
+⚡FaceBook: https://www.facebook.com/webstylepress
+⚡Twitter: https://twitter.com/webstylepress
+⚡Instagram: https://www.instagram.com/webstylepress
+⚡GitHub: https://github.com/webstylepress
